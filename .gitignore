@@ -1,0 +1,4 @@
+
+*.lock
+
+PipelineProject/\.vs/PipelineProject/v15/Server/sqlite3/
